@@ -148,7 +148,7 @@ GEM
       deep_merge (~> 1.2, >= 1.2.1)
       dry-validation (~> 1.0, >= 1.0.0)
     connection_pool (2.3.0)
-    crass (1.0.6)
+    crass (1.0.8)
     date (3.3.3)
     debase (0.2.5.beta2)
       debase-ruby_core_source (>= 0.10.12)
