@@ -65,7 +65,7 @@ gem 'coffee-rails', '~> 5.0', '>= 5.0.0'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.11', '>= 2.11.5'
-gem 'json', '~> 2.0' # Legacy carry-over
+gem 'json', '~> 3.1' # Legacy carry-over
 gem 'webpacker', '>= 5.4.3'
 gem 'will_paginate', '~> 3.3.0'
 gem 'will_paginate-bootstrap-style'
