@@ -2,7 +2,7 @@ source 'https://rubygems.org'.freeze
 
 ruby ENV['CUSTOM_RUBY_VERSION'] || '>=2.7.0'
 
-gem 'rails', '~> 7.0.4'
+gem 'rails', '~> 7.2.3'
 
 group :development do
   gem 'debase', '0.2.5.beta2'
