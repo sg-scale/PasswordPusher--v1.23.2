@@ -68,7 +68,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.11', '>= 2.11.5'
 gem 'json', '~> 2.0' # Legacy carry-over
 gem 'webpacker', '>= 5.4.3'
-gem 'will_paginate', '~> 3.3.0'
+gem 'will_paginate', '~> 4.0.1'
 gem 'will_paginate-bootstrap-style'
 
 # Use Redis adapter to run Action Cable in production
