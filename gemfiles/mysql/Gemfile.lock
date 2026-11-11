@@ -330,7 +330,7 @@ GEM
       net-protocol
     net-pop (0.1.2)
       net-protocol
-    net-protocol (0.2.1)
+    net-protocol (0.4.0)
       timeout
     net-smtp (0.3.3)
       net-protocol
@@ -467,7 +467,7 @@ GEM
     text (1.3.1)
     thor (1.2.1)
     tilt (2.0.11)
-    timeout (0.3.1)
+    timeout (0.6.1)
     trailblazer-option (0.1.2)
     translation (1.34)
       gettext (~> 3.2, >= 3.2.5, <= 3.4.3)
