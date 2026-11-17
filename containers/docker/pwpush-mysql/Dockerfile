@@ -1,5 +1,5 @@
 # pwpush-mysql
-FROM ruby:3.1-slim
+FROM ruby:4.0-slim
 
 LABEL maintainer='pglombardo@hey.com'
 
